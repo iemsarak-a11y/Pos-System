@@ -1,0 +1,5 @@
+{
+  "name": "Gemini POS Pro",
+  "description": "A professional, feature-rich Point of Sale (POS) system built with React and enhanced with Gemini API for smart product description generation. It provides a clean, responsive interface for managing products and processing sales efficiently.",
+  "requestFramePermissions": []
+}
